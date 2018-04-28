@@ -1,0 +1,6 @@
+Name: Derek Hickman
+Date: April 28th, 2018
+
+This is my first text document for one of Dr. Musick's Media Arts courses.
+
+I added this line in Atom
