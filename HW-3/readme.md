@@ -4,7 +4,7 @@ Derek Hickman
 
 # HW-3 Response
 
-I followed all instructions for this assignment, but changed some colors and
+I followed all instructions for this assignment, but changed some colors and some positioning
 
 I did not experience any issues with this assignment.
 
