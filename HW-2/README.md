@@ -11,7 +11,7 @@ Derek Hickman
 
 
 ## Steps
-- Just read and followed the instructions on the course website.
+- Read and followed the instructions on the course website.
 - Had to use Github Desktop and Atom to do the homework.
 
 ## Problems?
