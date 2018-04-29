@@ -15,4 +15,4 @@ I was late with this assignment and could help no one, and no further discussion
 #### Final Sketch
 
 
-![Image of my p5 project for HW-3](Image.png)
+![Image of my p5 project for HW-3](https://github.com/Esquirethesquire/Creative-Coding-/blob/master/HW-3/Image.png)
